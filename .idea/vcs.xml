@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1.spring-core-basic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2-0.spring-mvc-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2-1.spring_mvc_part1_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2-2.spring_mvc_part1_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2-3.spring_mvc_part1_3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3-0.inflearn_spring_mvc2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3-1.spring_mvc_part2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4.jpa-basic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5.spring_db_part1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/6.spring_db_part2" vcs="Git" />
+  </component>
+</project>
